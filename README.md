@@ -1,5 +1,5 @@
 # 💫 About Me:
-A rookie web developer and UI/UX designer.
+Full Stack Web Developer | HTML | CSS | Javascript | ReactJS | NodeJS | Data Structures | C++ Programming | Competitive Programming 
 
 
 ## 🌐 Socials:
