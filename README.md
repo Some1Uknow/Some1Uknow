@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer | HTML | CSS | Javascript | ReactJS | NodeJS | Data Structures | C++ Programming | Competitive Programming 
+Web3 Developer | ReactJS | NodeJS | Solidity | Data Structures | C++ Programming | Competitive Programming 
 
 
 ## 🌐 Socials:
