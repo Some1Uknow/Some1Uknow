@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web3 Developer | ReactJS | NodeJS | Solidity | Data Structures | C++ Programming | Competitive Programming 
+Web3 Developer | MERN | Solidity | Data Structures | C++ Programming | Competitive Programming 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavsharmaweb3) 
