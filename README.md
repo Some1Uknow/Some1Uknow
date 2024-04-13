@@ -12,7 +12,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui,framer" />
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Some1Uknow&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Some1Uknow&theme=darcula&hide_border=false)<br/>
