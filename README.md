@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,daisyui,reactnative,vercel,netlify,git,github,powershell,materialui,framer" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui,framer" />
 </div>
 
 <br/>
@@ -41,10 +41,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=raghav250704&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=raghav250704&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Some1Uknow&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Some1Uknow&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav250704&langs_count=8&layout=compact&theme=react&border_radius=10&hide=html" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Some1Uknow&langs_count=8&layout=compact&theme=react&border_radius=10&hide=html" alt="top langs" />
 </div>
 
 <br/><br/>
