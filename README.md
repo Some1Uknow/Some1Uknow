@@ -4,7 +4,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 
 🌱 I’m currently learning **React Native, Cloud**
 
-💬 Ask me about **Web Development, DevOps, Cloud, App Development.
+💬 Ask me about **Web Development, DevOps, Cloud, App Development.**
 
 
 ## 🌐 Socials:
