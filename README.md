@@ -11,12 +11,12 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snippet.master__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavsharmaweb3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raghav_sharma_7) 
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui,framer" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui" /> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Some1Uknow&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Some1Uknow&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Some1Uknow&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=some1uknow&show_icons=true&locale=en" alt="some1uknow" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&" alt="some1uknow" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Some1Uknow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
