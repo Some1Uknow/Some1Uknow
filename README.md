@@ -11,7 +11,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snippet.master__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavsharmaweb3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raghav_sharma_7) 
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,mongoose,powershell,materialui,postman,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui,postman,vscode,vite" />
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&theme=react&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
