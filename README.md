@@ -2,7 +2,7 @@
 
 A curious Full Stack developer currently working on a project called VentOut, a platform aimed at providing a safe space for expressing emotions and receiving mental health support.
 
-🌱 I’m currently learning **React Native, Cloud**
+🌱 I’m currently learning **React Native**
 
 💬 Ask me about **Web Development, DevOps, Cloud, App Development.**
 
@@ -12,6 +12,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mongodb,express,nodejs,html,css,bootstrap,tailwind,vercel,netlify,git,github,powershell,materialui,postman" />
+
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&theme=react&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=some1uknow&theme=react&show_icons=true&locale=en" alt="some1uknow" /></p>
