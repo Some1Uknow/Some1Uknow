@@ -12,11 +12,11 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 
 # 💻 Tech Stack:
 
-### Frontend:
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,bootstrap,tailwind,materialui,vite" />
+### Programming Languages:
+<img src="https://skillicons.dev/icons?i=javascript,typescript, java"/>
 
-### Backend:
-<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
+### Frameworks and Libraries:
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,mongodb,express,nodejs,vite" />
 
 ### Deployment and Hosting:
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
