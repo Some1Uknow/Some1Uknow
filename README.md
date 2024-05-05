@@ -16,7 +16,10 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 <img src="https://skillicons.dev/icons?i=javascript,typescript, java"/>
 
 ### Frameworks and Libraries:
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,mongodb,express,nodejs,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,express,nodejs,vite" />
+
+### Databases 
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
 ### Deployment and Hosting:
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
