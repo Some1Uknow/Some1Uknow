@@ -15,7 +15,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 ### Programming Languages:
 <img src="https://skillicons.dev/icons?i=javascript,typescript, java"/>
 
-### Frameworks and Libraries:
+### Web Development:
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,express,nodejs,vite" />
 
 ### Databases 
