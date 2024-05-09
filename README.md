@@ -2,9 +2,9 @@
 
 A curious Full Stack developer currently working on a project called VentOut, a platform aimed at providing a safe space for expressing emotions and receiving mental health support.
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **DevOps**
 
-💬 Ask me about **Web Development, DevOps, Cloud, App Development.**
+💬 Ask me about **Web Development and DevOps**
 
 
 ## 🌐 Socials:
