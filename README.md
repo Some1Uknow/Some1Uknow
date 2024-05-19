@@ -42,6 +42,6 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Some1Uknow&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=some1uknow&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
