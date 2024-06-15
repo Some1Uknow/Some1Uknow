@@ -13,7 +13,7 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 # 💻 Tech Stack:
 
 ### Programming Languages:
-<img src="https://skillicons.dev/icons?i=javascript,typescript"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp"/>
 
 ### Web Development:
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,express,nodejs,vite" />
