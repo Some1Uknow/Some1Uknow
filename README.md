@@ -16,19 +16,19 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp"/>
 
 ### Web Development:
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,express,nodejs,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,nextjs,express,nodejs,vite" />
 
 ### Databases 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
 
 ### Deployment and Hosting:
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare" />
 
 ### Version Control and Collaboration:
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 ### Development Tools:
-<img src="https://skillicons.dev/icons?i=powershell,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=bash,postman,vscode,wsl" />
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&theme=react&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
