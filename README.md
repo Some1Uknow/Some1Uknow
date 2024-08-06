@@ -13,22 +13,19 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 # 💻 Tech Stack:
 
 ### Programming Languages:
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python"/>
 
-### Web Development:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,nextjs,express,nodejs,vite" />
+### Frontend:
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,nextjs,angular" />
+
+### Backend:
+<img src="https://skillicons.dev/icons?i=express,nodejs,django" />
 
 ### Databases 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
 
-### Deployment and Hosting:
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare" />
-
-### Version Control and Collaboration:
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-### Development Tools:
-<img src="https://skillicons.dev/icons?i=bash,postman,vscode,wsl" />
+### Other tools:
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github" />
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&theme=react&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
