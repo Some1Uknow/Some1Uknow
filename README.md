@@ -1,10 +1,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raghav+Sharma!;" />
 
-A curious Full Stack developer currently working on a project called VentOut, a platform aimed at providing a safe space for expressing emotions and receiving mental health support.
+A curious Full Stack dev, who loves shipping cool apps.
 
-🌱 I’m currently learning **DevOps**
-
-💬 Ask me about **Web Development and DevOps**
+🌱 I’m currently learning **Backend**
 
 
 ## 🌐 Socials:
@@ -37,6 +35,8 @@ A curious Full Stack developer currently working on a project called VentOut, a 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Some1UKnow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Some1Uknow&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=some1uknow&color=blueviolet)
