@@ -26,7 +26,7 @@ A curious Full Stack dev, who loves shipping cool apps.
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github" />
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=reac" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=react" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Some1Uknow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -34,7 +34,7 @@ A curious Full Stack dev, who loves shipping cool apps.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Some1UKnow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Some1Uknow&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+![Some1UKnow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Some1Uknow&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=tru)
 
 ---
 ![](https://komarev.com/ghpvc/?username=some1uknow&color=blueviolet)
