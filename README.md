@@ -34,7 +34,7 @@ A curious Full Stack dev, who loves shipping cool apps.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Some1UKnow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Some1Uknow&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=tru)
+![Some1UKnow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Some1Uknow&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=some1uknow&color=blueviolet)
