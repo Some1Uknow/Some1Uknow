@@ -26,8 +26,6 @@ A curious Full Stack dev, who loves shipping cool apps.
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github" />
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=some1uknow&theme=react&show_icons=true&locale=en&layout=compact" alt="some1uknow" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=some1uknow&theme=react&show_icons=true&locale=en" alt="some1uknow" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=react&" alt="some1uknow" /></p>
 
 ## 🏆 GitHub Trophies
