@@ -38,5 +38,3 @@ A curious Full Stack dev, who loves shipping cool apps.
 
 ---
 ![](https://komarev.com/ghpvc/?username=some1uknow&color=blueviolet)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
