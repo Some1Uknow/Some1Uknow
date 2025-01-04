@@ -28,8 +28,9 @@ A curious Full Stack dev, who loves shipping cool apps.
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=highcontrast" />
 
-#  :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=some1uknow&hide=javascript,css,scss,html&theme=tokyonight)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=some1uknow)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Some1Uknow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
