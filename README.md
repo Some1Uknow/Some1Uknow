@@ -28,6 +28,9 @@ A curious Full Stack dev, who loves shipping cool apps.
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=highcontrast" />
 
+#  :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Some1Uknow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
