@@ -30,7 +30,7 @@ A curious Full Stack dev, who loves shipping cool apps.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=some1uknow&hide=css,scss,html&theme=tokyonight)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=some1uknow)]
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=some1uknow)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Some1Uknow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
