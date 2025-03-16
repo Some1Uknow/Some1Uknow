@@ -14,16 +14,16 @@ A curious Full Stack dev, who loves shipping cool apps.
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python"/>
 
 ### Frontend:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,nextjs,angular" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
 
 ### Backend:
 <img src="https://skillicons.dev/icons?i=express,nodejs,django" />
 
 ### Databases 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
 
 ### Other tools:
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github" />
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=some1uknow&theme=highcontrast" />
