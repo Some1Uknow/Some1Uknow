@@ -113,7 +113,7 @@
   <h2>🚀 Currently Working On</h2>
   
   <a href="https://github.com/Some1Uknow/learn.sol-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Some1Uknow&repo=easy-gpt&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Some1Uknow&repo=learn.sol-landing&theme=tokyonight&hide_border=true&border_radius=10" alt="Featured Repository" />
   </a>
 </div>
 
