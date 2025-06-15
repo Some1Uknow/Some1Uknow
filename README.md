@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Raghav Sharma</h1>
   <p>Full Stack Developer</p>
-
-  
-  <br/>
   
   <a href="https://linkedin.com/in/raghavsharmaweb3">LinkedIn</a> • 
   <a href="https://x.com/some1uknow25">Twitter</a> • 
