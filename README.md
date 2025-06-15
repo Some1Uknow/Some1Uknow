@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Raghav Sharma</h1>
   <p>Full Stack Developer</p>
-  <p style="color: #666;">Building thoughtful software experiences</p>
+
   
   <br/>
   
@@ -13,25 +13,14 @@
 ---
 
 ## About
-
-full stack dev, sih'24 winner, member @superteam, founder @learn.sol, prev - swe intern at IITB and startups, builds scalable apps with react, next, node. loves ai, cloud & web3. obsessed with solving real-world problems
-
-**Location:** New Delhi, India
+Developer with experience in full-stack development.
 
 ## Technologies
-
-**Languages:** JavaScript, TypeScript, Python, C++, Rust
-
-**Frontend:** React, Next.js, Tailwind CSS
-
-**Backend:** Node.js, Express, Django
-
-**Database:** MongoDB, PostgreSQL
-
-**Cloud:** AWS, Docker
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,react,nextjs,tailwind,nodejs,express,django,mongodb,postgres,aws,docker" />
+</div>
 
 ## Featured Work
-
 <div align="center">
   <a href="https://github.com/Some1Uknow/learn.sol-landing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Some1Uknow&repo=learn.sol-landing&theme=default&hide_border=true&title_color=333&text_color=666" alt="Learn.sol Landing" />
@@ -39,7 +28,6 @@ full stack dev, sih'24 winner, member @superteam, founder @learn.sol, prev - swe
 </div>
 
 ## GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=some1uknow&show_icons=true&theme=default&hide_border=true&title_color=333&text_color=666&icon_color=333" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=some1uknow&layout=compact&theme=default&hide_border=true&title_color=333&text_color=666" alt="Top Languages" height="165"/>
