@@ -2,8 +2,7 @@
   <h1>Raghav Sharma</h1>
   <p>Full Stack Developer</p>
   
-  <a href="https://linkedin.com/in/raghavsharmaweb3">LinkedIn</a> • 
-  <a href="https://x.com/some1uknow25">Twitter</a> • 
+  
   <a href="mailto:raghu250407@gmail.com">Email</a>
 </div>
 
