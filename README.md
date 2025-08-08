@@ -16,13 +16,6 @@ Developer with experience in full-stack development.
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,react,nextjs,tailwind,nodejs,express,django,mongodb,postgres,aws,docker" />
 </div>
 
-## Featured Work
-<div align="center">
-  <a href="https://github.com/Some1Uknow/learn.sol-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Some1Uknow&repo=learn.sol-landing&theme=default&hide_border=true&title_color=333&text_color=666" alt="Learn.sol Landing" />
-  </a>
-</div>
-
 ## GitHub Analytics
 
 <p align="center">
