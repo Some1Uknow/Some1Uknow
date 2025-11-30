@@ -4,7 +4,7 @@ full stack dapp dev and solana engineer | rust • anchor • typescript
 
 **building:** production solana dapps and programs
 **funded:** $5k solana foundation grant for ecosystem education  
-**shipped:** 3 programs to devnet | 800+ users on educational platform
+**shipped:** 3 programs to devnet | 1000+ users on educational platform
 
 [@Some1UKnow25](https://twitter.com/Some1UKnow25) • [linkedin](https://linkedin.com/in/raghavsharmaweb3) • [raghav.codes](https://raghav.codes)
 
