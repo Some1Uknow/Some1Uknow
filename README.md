@@ -1,10 +1,6 @@
 # raghav sharma
 
-full stack dapp dev and solana engineer | rust • anchor • typescript
-
-**building:** production solana dapps and programs
-**funded:** $5k solana foundation grant for ecosystem education  
-**shipped:** 3 programs to devnet | 1000+ users on educational platform
+defi protocol engineer | rust • anchor • typescript
 
 [@Some1UKnow25](https://twitter.com/Some1UKnow25) • [linkedin](https://linkedin.com/in/raghavsharmaweb3) • [raghav.codes](https://raghav.codes)
 
@@ -12,29 +8,31 @@ full stack dapp dev and solana engineer | rust • anchor • typescript
 
 ## proof of work
 
-### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
+#### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
 on-chain encrypted messaging with x25519-ecdh + chacha20-poly1305, zero plaintext exposure, deployed to devnet
 
-### [escrow_protocol](https://github.com/Some1Uknow/escrow_protocol) • defi primitive  
-trustless escrow with 7-state machine, pda vault custody, timeout protections, deployed to `3PWoWeSxThLbCFGxMAmSpsCqrFJJhbdrvZg4DVrPdu1y`
+#### [payment_protocol](https://github.com/Some1Uknow/escrow_protocol) • safe freelance payments  
+trustless escrow with 7-state machine, pda vault custody, timeout protections
 
-### [learn-solana](https://github.com/Some1Uknow/learn-solana) • $5k solana foundation grant
+#### [learn-solana](https://github.com/Some1Uknow/learn-solana) • $5k solana foundation grant
 production educational platform with ai-powered docs search (rag + pgvector), gamified learning, metaplex nft rewards, 1000+ users, 46 stars
 
-### [pixelmart](https://github.com/Some1Uknow/pixelmart) • nft marketplace
+#### [pixelmart](https://github.com/Some1Uknow/pixelmart) • nft marketplace
 full-featured marketplace with minting, listing, buying, auction mechanics, pda escrow, cpis to metaplex + token program
 
-### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
+#### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
 swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation
-
-### [chatgpt-cloned](https://github.com/Some1Uknow/chatgpt-cloned) • ai chatbot
-chatgpt clone with mem0 memory, vercel ai sdk, openai api, mongodb persistence, 37 stars
-
-### [ezdeploy](https://github.com/Some1Uknow/EzDeploy) • cloud deployment platform
-vercel-like platform with microservices (api gateway, build server, reverse proxy), aws ecs fargate, redis pub/sub, websocket logs
 
 ### [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) • blockchain explorer
 comprehensive rust tui for exploring solana transactions, accounts, wallets across mainnet/devnet/testnet
+
+## web2
+
+#### [chatgpt-clone](https://github.com/Some1Uknow/chatgpt-cloned) • ai chatbot
+chatgpt clone with mem0 memory, vercel ai sdk, openai api, mongodb persistence
+
+#### [ezdeploy](https://github.com/Some1Uknow/EzDeploy) • cloud deployment platform
+vercel-like platform with microservices (api gateway, build server, reverse proxy), aws ecs fargate, redis pub/sub, websocket logs
 
 ### [resume-optimizer](https://github.com/Some1Uknow/resume-optimizer) • ai resume builder
 automatic resume generation powered by gemini ai, postgresql storage, nextjs + typescript
@@ -52,11 +50,11 @@ interactive 3d text generator using three.js, custom fonts, real-time rendering
 **solana/blockchain**  
 rust • anchor 0.31+ • solana web3.js • metaplex • spl-token • pdas • cpis
 
-**web3 privacy**  
+**privacy**  
 noir lang • zero-knowledge proofs • x25519-ecdh • chacha20-poly1305
 
 **languages**  
-rust • typescript • solidity
+rust • typescript
 
 **frameworks**  
 next.js 15 • react 19 • anchor • express.js
@@ -64,8 +62,8 @@ next.js 15 • react 19 • anchor • express.js
 **databases & infra**  
 postgresql • redis • drizzle orm • aws ecs • docker • s3
 
-**ai/ml**  
-openai api • vercel ai sdk • mem0 • gemini • rag • pgvector
+**ai**  
+openai api • vercel ai sdk • mem0 • rag • pgvector
 
 ---
 
