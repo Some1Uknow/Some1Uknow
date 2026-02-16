@@ -34,13 +34,13 @@ chatgpt clone with mem0 memory, vercel ai sdk, openai api, mongodb persistence
 #### [ezdeploy](https://github.com/Some1Uknow/EzDeploy) • cloud deployment platform
 vercel-like platform with microservices (api gateway, build server, reverse proxy), aws ecs fargate, redis pub/sub, websocket logs
 
-### [resume-optimizer](https://github.com/Some1Uknow/resume-optimizer) • ai resume builder
+#### [resume-optimizer](https://github.com/Some1Uknow/resume-optimizer) • ai resume builder
 automatic resume generation powered by gemini ai, postgresql storage, nextjs + typescript
 
-### [FastEdit](https://github.com/Some1Uknow/FastEdit-Fully_Client_side_image_editor) • image editor
+#### [FastEdit](https://github.com/Some1Uknow/FastEdit-Fully_Client_side_image_editor) • image editor
 fully client-side privacy-focused image editor, zero server uploads, pure browser-based processing
 
-### [3d-text-generator](https://github.com/Some1Uknow/3d-text-generator) • webgl playground
+#### [3d-text-generator](https://github.com/Some1Uknow/3d-text-generator) • webgl playground
 interactive 3d text generator using three.js, custom fonts, real-time rendering
 
 ---
