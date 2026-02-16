@@ -10,135 +10,68 @@ full stack dapp dev and solana engineer | rust • anchor • typescript
 
 ---
 
-## what i build
+## proof of work
 
 ### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
-fighting chat surveillance with cryptography.
+on-chain encrypted messaging with x25519-ecdh + chacha20-poly1305, zero plaintext exposure, deployed to devnet
 
-- **crypto:** x25519 ecdh + chacha20-poly1305 for encrypted on-chain messaging
-- **privacy:** zero plaintext exposure, all payloads encrypted client-side
-- **architecture:** pda-based chat accounts, real-time via subscriptions
-- **deployed:** solana devnet | [demo video](https://loom.com/share/10ce1dad6c1b4996983ce68bf2b38875)
-
-`rust` `anchor` `x25519` `chacha20-poly1305` `cryptography`
-
----
-
-### [freelance_escrow](https://github.com/Some1Uknow/capstone_freelance_escrow) • defi primitive
-trustless escrow with complete state machine.
-
-- **architecture:** 7-state flow (pending → funded → submitted → approved → complete)
-- **security:** pda vault custody, timeout protections, authorization checks
-- **deployed:** `3PWoWeSxThLbCFGxMAmSpsCqrFJJhbdrvZg4DVrPdu1y`
-- **testing:** comprehensive unit + integration tests
-
-`rust` `anchor` `spl-token` `defi` `state-machines`
-
-**relevance:** vault custody patterns for lending, liquidation timeouts, collateral management
-
----
+### [escrow_protocol](https://github.com/Some1Uknow/escrow_protocol) • defi primitive  
+trustless escrow with 7-state machine, pda vault custody, timeout protections, deployed to `3PWoWeSxThLbCFGxMAmSpsCqrFJJhbdrvZg4DVrPdu1y`
 
 ### [learn-solana](https://github.com/Some1Uknow/learn-solana) • $5k solana foundation grant
-production educational platform teaching solana development.
+production educational platform with ai-powered docs search (rag + pgvector), gamified learning, metaplex nft rewards, 1000+ users, 46 stars
 
-- **grant:** $5,000 solana foundation grant recipient
-- **traction:** 1000+ users, 200+ registered, 25k+ launch views
-- **tech:** ai-powered docs search (rag + pgvector), gamified learning with metaplex nft rewards, rust coding problems with code playground
-- **live:** [learnsol.site](https://learnsol.site)
+### [pixelmart](https://github.com/Some1Uknow/pixelmart) • nft marketplace
+full-featured marketplace with minting, listing, buying, auction mechanics, pda escrow, cpis to metaplex + token program
 
-`next.js-15` `postgresql` `rag` `anchor` `metaplex`
+### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
+swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation
 
-**impact:** foundation-validated contribution to solana ecosystem
-
----
-
-### [nft-marketplace](https://github.com/Some1Uknow/NFT-marketplace) • trading platform
-multi-feature marketplace with cpis to metaplex.
-
-- **features:** minting, listing, buying, auction mechanics
-- **architecture:** pda escrow for secure nft custody
-- **integration:** cross-program invocations to token program + metaplex
-
-`rust` `anchor` `metaplex` `cpis` `spl-token`
-
----
+### [chatgpt-cloned](https://github.com/Some1Uknow/chatgpt-cloned) • ai chatbot
+chatgpt clone with mem0 memory, vercel ai sdk, openai api, mongodb persistence, 37 stars
 
 ### [ezdeploy](https://github.com/Some1Uknow/EzDeploy) • cloud deployment platform
-vercel-like platform with microservices architecture.
+vercel-like platform with microservices (api gateway, build server, reverse proxy), aws ecs fargate, redis pub/sub, websocket logs
 
-- **architecture:** api gateway, build server, reverse proxy, web client
-- **infra:** aws ecs fargate, redis pub/sub, postgresql
-- **features:** one-click deployments, real-time websocket logs
+### [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) • blockchain explorer
+comprehensive rust tui for exploring solana transactions, accounts, wallets across mainnet/devnet/testnet
 
-`typescript` `aws-ecs` `redis` `docker` `next.js-15`
+### [resume-optimizer](https://github.com/Some1Uknow/resume-optimizer) • ai resume builder
+automatic resume generation powered by gemini ai, postgresql storage, nextjs + typescript
+
+### [FastEdit](https://github.com/Some1Uknow/FastEdit-Fully_Client_side_image_editor) • image editor
+fully client-side privacy-focused image editor, zero server uploads, pure browser-based processing
+
+### [3d-text-generator](https://github.com/Some1Uknow/3d-text-generator) • webgl playground
+interactive 3d text generator using three.js, custom fonts, real-time rendering
 
 ---
 
 ## tech stack
 
 **solana/blockchain**  
-rust • anchor framework • pdas • cpis • spl token • metaplex • web3.js • solana wallet adapter
+rust • anchor 0.31+ • solana web3.js • metaplex • spl-token • pdas • cpis
+
+**web3 privacy**  
+noir lang • zero-knowledge proofs • x25519-ecdh • chacha20-poly1305
 
 **languages**  
-rust • typescript • javascript • node.js
+rust • typescript • solidity
 
 **frameworks**  
-anchor 0.31+ • next.js 15 • react 19 • express.js
+next.js 15 • react 19 • anchor • express.js
 
 **databases & infra**  
-postgresql • redis • drizzle orm • aws (ecs, s3) • docker
+postgresql • redis • drizzle orm • aws ecs • docker • s3
 
-**web3 tools**  
-solana cli • anchor cli • metaplex • web3auth
-
----
-
-## proof of work
-
-```
-┌─────────────────────────────────────────┐
-│ SHIPPED                                 │
-├─────────────────────────────────────────┤
-│ • 3 solana programs deployed to devnet  │
-│ • 1000+ users on educational platform   │
-│ • 200+ registered developers            │
-│ • 25k+ launch tweet views               │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ RECOGNIZED                              │
-├─────────────────────────────────────────┤
-│ • $5k solana foundation grant           │
-│ • sih24 winner (national level)         │
-│ • superteam india member                │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ PROGRAMS ON-CHAIN                       │
-├─────────────────────────────────────────┤
-│ • pigeon (e2ee messenger)               │
-│ • escrow (defi primitive)               │
-│ • nft marketplace (trading platform)    │
-└─────────────────────────────────────────┘
-```
+**ai/ml**  
+openai api • vercel ai sdk • mem0 • gemini • rag • pgvector
 
 ---
 
 ## current focus
 
-→ building production defi primitives on solana  
-→ optimizing compute units & account structures  
-→ comprehensive testing (unit/integration/fuzz)  
-→ contributing to solana ecosystem education
-
----
-
-## principles
-
-**security first:** anchor constraints, authorization checks, state validation  
-**test everything:** unit + integration + devnet before mainnet  
-**optimize compute:** profile cu consumption, minimize account reads  
-**ship fast:** iterate quickly, gather feedback, improve
+→ digging deep into the rabbit hole of defi on solana
 
 ---
 
