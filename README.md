@@ -49,11 +49,8 @@ interactive 3d text generator using three.js, custom fonts, real-time rendering
 
 ## tech stack
 
-**solana/blockchain**  
-rust • anchor 0.31+ • solana web3.js • metaplex • spl-token • pdas • cpis
-
-**privacy**  
-noir lang • zero-knowledge proofs • x25519-ecdh • chacha20-poly1305
+**solana**  
+rust • anchor • solana-web3.js • solana-kit • metaplex • zk-proofs • defi protocol design
 
 **languages**  
 rust • typescript
