@@ -6,7 +6,9 @@ defi protocol engineer | rust • anchor • typescript
 
 ---
 
-## proof of work
+# proof of work
+
+## solana
 
 #### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
 on-chain encrypted messaging with x25519-ecdh + chacha20-poly1305, zero plaintext exposure, deployed to devnet
@@ -26,7 +28,7 @@ full-featured marketplace with minting, listing, buying, auction mechanics, pda 
 #### [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) • solana explorer tui
 comprehensive rust tui for exploring solana transactions, accounts, wallets across mainnet/devnet/testnet
 
-## web2
+## full-stack
 
 #### [chatgpt-clone](https://github.com/Some1Uknow/chatgpt-cloned) • ai chatbot
 chatgpt clone with mem0 memory, vercel ai sdk, openai api, mongodb persistence
