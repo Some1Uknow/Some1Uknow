@@ -11,19 +11,19 @@ defi protocol engineer | rust • anchor • typescript
 #### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
 on-chain encrypted messaging with x25519-ecdh + chacha20-poly1305, zero plaintext exposure, deployed to devnet
 
+#### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
+swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation
+
 #### [payment_protocol](https://github.com/Some1Uknow/escrow_protocol) • safe freelance payments  
-trustless escrow with 7-state machine, pda vault custody, timeout protections
+production grade escrow for safe freelance payments
 
 #### [learn-solana](https://github.com/Some1Uknow/learn-solana) • $5k solana foundation grant
-production educational platform with ai-powered docs search (rag + pgvector), gamified learning, metaplex nft rewards, 1000+ users, 46 stars
+production educational platform with ai-powered docs search (rag + pgvector), gamified learning, metaplex nft rewards, 1000+ users
 
 #### [pixelmart](https://github.com/Some1Uknow/pixelmart) • nft marketplace
 full-featured marketplace with minting, listing, buying, auction mechanics, pda escrow, cpis to metaplex + token program
 
-#### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
-swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation
-
-### [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) • blockchain explorer
+#### [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) • solana explorer tui
 comprehensive rust tui for exploring solana transactions, accounts, wallets across mainnet/devnet/testnet
 
 ## web2
