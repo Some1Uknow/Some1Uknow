@@ -10,14 +10,14 @@ defi protocol engineer | rust • anchor • typescript
 
 ## solana
 
-#### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana
+#### [pigeon](https://github.com/Some1Uknow/pigeon) • e2ee messenger on solana 
 on-chain encrypted messaging with x25519-ecdh + chacha20-poly1305, zero plaintext exposure, deployed to devnet
 
 #### [shadow](https://github.com/Some1Uknow/shadow) • privacy-preserving dex
-swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation
+swap tokens on solana without exposing eligibility data using noir zk proofs, rust + typescript full-stack implementation, deployed on devnet
 
 #### [payment_protocol](https://github.com/Some1Uknow/escrow_protocol) • safe freelance payments  
-production grade escrow for safe freelance payments
+production grade escrow for safe freelance payments, deployed on devnet
 
 #### [learn-solana](https://github.com/Some1Uknow/learn-solana) • $5k solana foundation grant
 production educational platform with ai-powered docs search (rag + pgvector), gamified learning, metaplex nft rewards, 1000+ users
@@ -60,9 +60,6 @@ next.js 15 • react 19 • anchor • express.js
 
 **databases & infra**  
 postgresql • redis • drizzle orm • aws ecs • docker • s3
-
-**ai**  
-openai api • vercel ai sdk • mem0 • rag • pgvector
 
 ---
 
