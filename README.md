@@ -1,5 +1,5 @@
 # raghav sharma
-**defi protocol engineer** · rust · anchor · typescript
+**devrel/protocol engineer** · rust · anchor · typescript
 
 [twitter](https://twitter.com/Some1UKnow25) · [linkedin](https://linkedin.com/in/raghavsharmaweb3) · [raghav.codes](https://raghav.codes) · raghu250407@gmail.com
 
