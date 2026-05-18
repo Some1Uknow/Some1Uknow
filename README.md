@@ -2,7 +2,7 @@
 
 ---
 
-## Solana & Blockchain Infra
+## Solana Protocols & tools
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -13,8 +13,6 @@
 | [Pinocchio Vault](https://github.com/Some1Uknow/pinocchio-vault) | Tokenized vault with PDA custody in Pinocchio | Rust, Pinocchio, Solana |
 | [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) | Published crate for exploring txns in terminal | Rust, Ratatui, Solana RPC |
 | [Observer](https://github.com/Some1UKnow/observer) | Self-hosted Solana observability indexer | Rust, WebSockets, Postgres |
-| [Omniscanner](https://github.com/Some1Uknow/omniscanner) | Borrower-risk scanner with Axum dashboard | Rust, Axum, Postgres |
-| [One Click Indexer](https://github.com/Some1Uknow/one-click-indexer) | Turn any Solana program ID into an indexer | Next.js, SQD Portal, SQD Pipes |
 
 ## Dapps & Onchain Products
 
@@ -25,6 +23,8 @@
 | [Pigeon](https://github.com/Some1Uknow/pigeon) (in progress) | Privacy-focused wallet superapp with encrypted chat | React, TypeScript, Anchor |
 | [yield.sol](https://github.com/Some1Uknow/yield-sol) | Earn yield on stablecoins via marginfi | Next.js, Solana, marginfi SDK |
 | [Loopscale Borrow Shopper](https://github.com/Some1Uknow/loopscale) | Fixed-rate borrow route finder | Next.js, TypeScript, Solana |
+| [Omniscanner](https://github.com/Some1Uknow/omniscanner) | Borrower-risk scanner with Axum dashboard | Rust, Axum, Postgres |
+| [One Click Indexer](https://github.com/Some1Uknow/one-click-indexer) | Turn any Solana program ID into an indexer | Next.js, SQD Portal, SQD Pipes |
 | [EzDeploy](https://github.com/Some1Uknow/ezdeploy) | Self-hosted deployment platform | TypeScript, Docker, CI/CD |
 
 ## Other Things I Made
