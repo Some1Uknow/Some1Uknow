@@ -1,7 +1,5 @@
 # hey, i'm raghav, your friendly protocol/backend engineer 
 
-Building the web3 stack one commit at a time. Member at Superteam India. Currently focused on Rust, Solana protocol design, and developer education.
-
 ---
 
 ## Solana & Blockchain Infra
@@ -24,7 +22,7 @@ Building the web3 stack one commit at a time. Member at Superteam India. Current
 |---------|-------------|------|
 | [Rayscan](https://github.com/Some1Uknow/rayscan) | Search-first Solana explorer with live tx feed | Next.js, Fastify, Postgres, solana-kit |
 | [PixelMart](https://github.com/Some1Uknow/pixelmart) | NFT marketplace with Anchor program | Rust, Anchor, Next.js |
-| [Pigeon](https://github.com/Some1Uknow/pigeon) | Privacy-focused wallet superapp with encrypted chat | React, TypeScript, Anchor |
+| [Pigeon](https://github.com/Some1Uknow/pigeon) (in progress) | Privacy-focused wallet superapp with encrypted chat | React, TypeScript, Anchor |
 | [yield.sol](https://github.com/Some1Uknow/yield-sol) | Earn yield on stablecoins via marginfi | Next.js, Solana, marginfi SDK |
 | [Loopscale Borrow Shopper](https://github.com/Some1Uknow/loopscale) | Fixed-rate borrow route finder | Next.js, TypeScript, Solana |
 | [EzDeploy](https://github.com/Some1Uknow/ezdeploy) | Self-hosted deployment platform | TypeScript, Docker, CI/CD |
@@ -33,13 +31,13 @@ Building the web3 stack one commit at a time. Member at Superteam India. Current
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [MPMC Queue](https://github.com/Some1Uknow/mpmc-queue-rust) | Bounded MPMC queue — 72.3M ops/sec, 0 unsafe | Rust, Concurrency |
+| [MPMC Queue](https://github.com/Some1Uknow/mpmc-queue-rust) | Bounded MPMC queue — 72.3M ops/sec | Rust, Concurrency |
 
 ---
 
 ### 🏆 Highlights
 
-- **Solana Foundation Grant** — $5K for LearnSol (Top 2% from 250+ submissions)
+- **Solana Foundation Grant** — $5K for LearnSol 
 - **Colosseum Codex Feature** — Highlighted in official Solana newsletter
 - **Smart India Hackathon** — 1st Place (₹100,000), Top 0.375% from 80K+ teams
 - **Superteam India** — Active member
