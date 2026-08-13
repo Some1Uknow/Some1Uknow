@@ -4,8 +4,6 @@ product engineer building AI agents and fullstack with TypeScript and Rust
 
 I've built products from zero to thousands of users, including LearnSol, an open-source developer education platform used by 2,500+ people. I'm currently building LLMRanker and working mostly with Rust, TypeScript, React, Next.js, PostgreSQL, Docker, and AWS.
 
-<br>
-
 ## some work
 
 **[LearnSol](https://learnsol.site)** — developer education platform with an AI tutor and Rust coding sandbox. 2,500+ users, $5,000 Solana Foundation grant.
@@ -16,14 +14,10 @@ I've built products from zero to thousands of users, including LearnSol, an open
 
 **[MPMC Queue](https://github.com/Some1Uknow/mpmc-queue-rust)** — safe Rust queue benchmarked at 72.3M ops/sec.
 
-<br>
-
 ## currently building
 
 **[LLMRanker](https://github.com/Some1Uknow/llmranker)** — AI agent for GEO Optimization.
 
 More projects are pinned below.
-
-<br>
 
 [portfolio](https://raghav.codes) · [linkedin](https://linkedin.com/in/raghavsharmaweb3) · [x](https://x.com/raghavdotsol)
