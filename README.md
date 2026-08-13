@@ -1,52 +1,20 @@
-# hey, i'm raghav, your friendly protocol/backend engineer 
+# hey, i'm raghav
 
----
+product engineer building AI, full-stack, and systems products.
 
-## Solana Protocols & tools
+I’ve built products from zero to thousands of users, including LearnSol, an open-source developer education platform used by 2,500+ people. I’m currently building LLMRanker and working mostly with Rust, TypeScript, React, Next.js, PostgreSQL, Docker, and AWS.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [LearnSol](https://learnsol.site) | Solana/Rust/Anchor learning platform — 2.2K+ users, Received **$5k grant** | Next.js, Rust, pgvector |
-| [CPMM](https://github.com/Some1Uknow/cpmm) | On-chain constant product market maker. x·y=k for token swaps | Rust, Anchor, Solana |
-| [Escrow](https://github.com/Some1Uknow/escrow) | Trustless on-chain escrow with PDA-controlled vaults | Rust, Anchor, Solana |
-| [Flash Loan](https://github.com/Some1Uknow/flash-loan) | Atomic flash loan protocol with repay checks | Rust, Anchor, Solana |
-| [Pinocchio Vault](https://github.com/Some1Uknow/pinocchio-vault) | Tokenized vault with PDA custody in Pinocchio | Rust, Pinocchio, Solana |
-| [solana-txn-tui](https://github.com/Some1Uknow/solana-txn-tui) | Published crate for exploring txns in terminal | Rust, Ratatui, Solana RPC |
-| [Observer](https://github.com/Some1UKnow/observer) | Self-hosted Solana observability indexer | Rust, WebSockets, Postgres |
+## some work
 
-## Dapps & Onchain Products
+•⁠  ⁠[LearnSol](https://learnsol.site): developer education platform with an AI tutor and Rust coding sandbox, 2,500+ users, $5,000 Solana Foundation grant
+•⁠  ⁠[EzDeploy](https://github.com/Some1Uknow/ezdeploy): self-hosted platform that turns react apps into depoyed sites
+•⁠  ⁠[Observer](https://github.com/Some1UKnow/observer): crash-safe Solana data indexer 
+•⁠  ⁠[MPMC Queue](https://github.com/Some1Uknow/mpmc-queue-rust): safe Rust queue benchmarked at 72.3M ops/sec
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Rayscan](https://github.com/Some1Uknow/rayscan) | Search-first Solana explorer with live tx feed | Next.js, Fastify, Postgres, solana-kit |
-| [PixelMart](https://github.com/Some1Uknow/pixelmart) | NFT marketplace with Anchor program | Rust, Anchor, Next.js |
-| [Pigeon](https://github.com/Some1Uknow/pigeon) (in progress) | Privacy-focused wallet superapp with encrypted chat | React, TypeScript, Anchor |
-| [yield.sol](https://github.com/Some1Uknow/yield-sol) | Earn yield on stablecoins via marginfi | Next.js, Solana, marginfi SDK |
-| [Loopscale Borrow Shopper](https://github.com/Some1Uknow/loopscale) | Fixed-rate borrow route finder | Next.js, TypeScript, Solana |
-| [Omniscanner](https://github.com/Some1Uknow/omniscanner) | Borrower-risk scanner with Axum dashboard | Rust, Axum, Postgres |
-| [One Click Indexer](https://github.com/Some1Uknow/one-click-indexer) | Turn any Solana program ID into an indexer | Next.js, SQD Portal, SQD Pipes |
-| [EzDeploy](https://github.com/Some1Uknow/ezdeploy) | Self-hosted deployment platform | TypeScript, Docker, CI/CD |
+## currently building
 
-## Other Things I Made
+•⁠  ⁠[LLMRanker](https://github.com/Some1Uknow/llmranker): tools for understanding and improving how products appear across LLMs
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [MPMC Queue](https://github.com/Some1Uknow/mpmc-queue-rust) | Bounded MPMC queue — 72.3M ops/sec | Rust, Concurrency |
+More projects are pinned below.
 
----
-
-### 🏆 Highlights
-
-- **Solana Foundation Grant** — $5K for LearnSol 
-- **Colosseum Codex Feature** — Highlighted in official Solana newsletter
-- **Smart India Hackathon** — 1st Place (₹100,000), Top 0.375% from 80K+ teams
-- **Superteam India** — Active member
-
----
-
-### 🔗 Connect
-
-- [GitHub](https://github.com/some1uknow)
-- [X](https://x.com/raghavdotsol)
-- [LinkedIn](https://linkedin.com/in/raghavsharmaweb3)
-- [Email](mailto:raghu250407@gmail.com)
+[portfolio](https://raghav.codes) · [linkedin](https://linkedin.com/in/raghavsharmaweb3) · [x](https://x.com/raghavdotsol)
